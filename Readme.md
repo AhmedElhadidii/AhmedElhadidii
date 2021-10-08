@@ -1,4 +1,4 @@
-hey and welcome to my "still under-construction" Github Profile 
+Hey and Welcome to my "still under-construction" Github Profile 
 
 have a look around ;)
 
