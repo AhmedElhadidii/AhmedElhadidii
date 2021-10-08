@@ -1,5 +1,6 @@
-hey and welcome to my Github Profile 
+hey and welcome to my "still under-construction" Github Profile 
 
-ITS STILL UNDER CONSTRUCTION
+have a look around ;)
 
-Here is my linkedinn lets connect: https://www.linkedin.com/in/ahmed-elhadidi/
+Greatness is on its way 
+Here is my linkedin lets connect: https://www.linkedin.com/in/ahmed-elhadidi/
