@@ -1,6 +1,11 @@
 Welcome to hadidiz Github Profile 
 
-have a look around.
+I hold a Bachelor's degree in Computer Science and have acquired extensive knowledge and expertise in programming languages such as Python, C, HTML5, CSS, JavaScript, and Dart (Flutter).
+
+My professional experience encompasses a broad range of skills, including a strong background in Open-Source Intelligence (OSINT) and Penetration Testing. Additionally, I have some experience in Game Development, utilizing the Unity3D framework.
+
+I am highly motivated and committed to keeping myself up-to-date with the latest technologies, frameworks, and methodologies to enhance my skillset. Continual learning and professional growth are fundamental components of my work ethic and personal philosophy.
+
 
 <a href="http://hadidiz.me">Hadidiz.me</a> 
     
