@@ -1,5 +1,5 @@
 # 💫 About Me:
-Results-driven Computer Science graduate and Cyber Security enthusiast with extensive self-taught knowledge in penetration testing. Proficient in Flutter for creating user-friendly iOS and Android apps. Skilled in vulnerability assessment, network sniffing, and optimizing websites for SEO. Passionate about continuous learning and adept at cutting development time using new and trendy methods. Eager to contribute expertise and passion to innovative projects.
+Carefull you might be amazed
 
 
 ## 🌐 Socials:
