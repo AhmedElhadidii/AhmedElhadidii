@@ -1,5 +1,5 @@
 # 💫 About Me:
-Carefull you might be amazed
+Careful you might be amazed
 
 
 ## 🌐 Socials:
